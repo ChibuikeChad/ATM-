@@ -1,0 +1,15 @@
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\obj\Debug\net6.0\Automated Teller Machine (ATM).csproj.AssemblyReference.cache
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\obj\Debug\net6.0\Automated Teller Machine (ATM).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\obj\Debug\net6.0\Automated Teller Machine (ATM).AssemblyInfoInputs.cache
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\obj\Debug\net6.0\Automated Teller Machine (ATM).AssemblyInfo.cs
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\obj\Debug\net6.0\Automated Teller Machine (ATM).csproj.CoreCompileInputs.cache
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\bin\Debug\net6.0\Automated Teller Machine (ATM).exe
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\bin\Debug\net6.0\Automated Teller Machine (ATM).deps.json
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\bin\Debug\net6.0\Automated Teller Machine (ATM).runtimeconfig.json
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\bin\Debug\net6.0\Automated Teller Machine (ATM).dll
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\bin\Debug\net6.0\Automated Teller Machine (ATM).pdb
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\obj\Debug\net6.0\Automated Teller Machine (ATM).dll
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\obj\Debug\net6.0\refint\Automated Teller Machine (ATM).dll
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\obj\Debug\net6.0\Automated Teller Machine (ATM).pdb
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\obj\Debug\net6.0\Automated Teller Machine (ATM).genruntimeconfig.cache
+C:\Users\sony i7\source\repos\Automated Teller Machine (ATM)\obj\Debug\net6.0\ref\Automated Teller Machine (ATM).dll
